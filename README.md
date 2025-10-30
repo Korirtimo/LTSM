@@ -1,6 +1,4 @@
-﻿Absolutely ✅ — here’s your README text in plain format (no markdown formatting needed), ready for direct copy-paste into GitHub’s online editor or VS Code.
 
-Just copy everything below into your README.md file:
 
 🌧️ AI-Based Rainfall Prediction Using LSTM
 Author: Timothy Kiprop
@@ -114,4 +112,5 @@ Author
 Timothy Kiprop
 Researcher, Computer Science
 Year: 2025
+
 
